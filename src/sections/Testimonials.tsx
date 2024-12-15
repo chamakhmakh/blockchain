@@ -38,7 +38,6 @@ export const TestimonialsSection = () => {
                 opacity: 1,
                 y: 0,
               }}
-              viewport={{ once: true }}
               transition={{
                 delay: testimonialIndex * 0.5,
                 ease: "easeInOut",
