@@ -1,5 +1,5 @@
 import {
-  useLayoutEffect,
+  useEffect,
   useRef,
   useState,
   type ComponentPropsWithoutRef,
@@ -18,7 +18,7 @@ export const Hexagon = (
   const pathRef = useRef<SVGPathElement>(null);
   const [totalPathLength, setTotalPathLength] = useState<number>();
 
-  useLayoutEffect(() => {
+  useEffect(() => {
     const pathLength = pathRef.current?.getTotalLength();
     if (!pathLength) return;
     const scaledPathLenght = (pathLength * size) / 82;

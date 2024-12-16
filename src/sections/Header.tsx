@@ -10,8 +10,8 @@ const navLinks = [
     href: "/",
   },
   {
-    title: "Bolg",
-    href: "/bolg",
+    title: "Blog",
+    href: "/blog",
   },
   {
     title: "Careers",
