@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 ### Key Features of Blockchain Technology in Healthcare
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin dapibus euismod metus, vel scelerisque ligula. Nulla facilisi. Quisque ac magna eget metus dapibus luctus. Donec vel venenatis risus. Vivamus vitae ligula tincidunt, dictum purus eget, accumsan erat. Integer posuere quam a massa pharetra, a pharetra ex pellentesque. 
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin dapibus euismod metus, vel scelerisque ligula. Nulla facilisi. Quisque ac magna eget metus dapibus luctus. Donec vel venenatis risus. Vivamus vitae ligula tincidunt, dictum purus eget, accumsan erat. Integer posuere quam a massa pharetra, a pharetra ex pellentesque.
 
 - Integer posuere erat a ante venenatis dapibus.
 - Curabitur convallis dolor vel orci sodales, sit amet tincidunt odio feugiat.
@@ -38,11 +38,10 @@ Etiam sit amet massa eget nisi efficitur varius. Nullam fermentum nunc nec liber
 
 Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
-Phasellus accumsan magna et sapien venenatis, non facilisis metus aliquet. Nam scelerisque tristique urna, vitae suscipit lorem aliquam vel. Praesent vehicula dui at nunc tristique, nec tempus elit tincidunt. Nulla facilisi. Integer sodales orci vel lectus fringilla, at gravida felis tempor. 
+Phasellus accumsan magna et sapien venenatis, non facilisis metus aliquet. Nam scelerisque tristique urna, vitae suscipit lorem aliquam vel. Praesent vehicula dui at nunc tristique, nec tempus elit tincidunt. Nulla facilisi. Integer sodales orci vel lectus fringilla, at gravida felis tempor.
 
 ### Conclusion
 
 Morbi fringilla convallis sapien, id pulvinar odio volutpat. Vivamus ac magna at nisi ornare auctor in a augue. Aliquam erat volutpat. Integer nec lacinia lectus. Nunc sit amet libero ut lorem consequat posuere quis in elit. Praesent ultricies orci a elit aliquet, a volutpat magna sagittis.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis nisi magna. Fusce non diam at arcu pulvinar tempus non sit amet tortor. Proin nec mi sed augue consequat lacinia. Etiam auctor sodales orci, vel feugiat felis ullamcorper in.
-

@@ -6,19 +6,19 @@ const testimonials = [
     text: "The user experince is phonomenal, and the support team is always there to help. Highly recommended!",
     name: "Erica Wyatt",
     title: "Product Manager — BlockLink",
-    avatarImage: "public/assets/images/avatar-erica-wyatt.jpg",
+    avatarImage: "/public/assets/images/avatar-erica-wyatt.jpg",
   },
   {
     text: "Our productivty has skyrocketed since we started using Blockforge. It's a game-changer for our team.",
     name: "Noel Baldwin",
     title: "Lead Developer — BitBridge",
-    avatarImage: "public/assets/images/avatar-noel-baldwin.jpg",
+    avatarImage: "/public/assets/images/avatar-noel-baldwin.jpg",
   },
   {
     text: "The integration process was seamless, and the performance improvements are beyond our expactations.",
     name: "Harry Bender",
     title: "CTO — CryptoSolutions",
-    avatarImage: "public/assets/images/avatar-harry-bender.jpg",
+    avatarImage: "/public/assets/images/avatar-harry-bender.jpg",
   },
 ];
 
