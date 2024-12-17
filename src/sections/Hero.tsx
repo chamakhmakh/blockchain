@@ -70,7 +70,7 @@ export const HeroSection = () => {
             <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
               <Circle className="absolute left-[200px] -top-[900px]" animate>
                 <motion.img
-                  src="public/assets/images/cube.png"
+                  src="/assets/images/cube.png"
                   alt="Cube 3D Image"
                   className="size-[140px]"
                   ref={cubeRef}
@@ -81,7 +81,7 @@ export const HeroSection = () => {
             <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
               <Circle className="absolute left-[200px] top-[270px]" animate>
                 <motion.img
-                  src="public/assets/images/cuboid.png"
+                  src="/assets/images/cuboid.png"
                   alt="Cuboid 3D Image"
                   className="size-[140px]"
                   ref={cuboidRef}
@@ -92,7 +92,7 @@ export const HeroSection = () => {
             <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
               <Circle className="absolute -left-[600px] -top-[80px]">
                 <motion.img
-                  src="public/assets/images/torus.png"
+                  src="/assets/images/torus.png"
                   alt="Torus 3D Image"
                   className="size-[140px]"
                   ref={torusRef}
@@ -106,13 +106,13 @@ export const HeroSection = () => {
               ref={icosahedronRef}
             >
               <img
-                src="public/assets/images/icosahedron.png"
+                src="/assets/images/icosahedron.png"
                 alt=""
                 className="absolute w-[calc(100%+100px)] max-w-none -z-10 top-1/2 left-1/2 
             -translate-x-1/2 -translate-y-1/2 saturate-[10%] brightness-[4%] hue-rotate-[240deg]"
               />
               <img
-                src="public/assets/images/icosahedron.png"
+                src="/assets/images/icosahedron.png"
                 alt="Icosahedron 3D Image"
                 className="w-[500px]"
               />

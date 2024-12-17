@@ -111,7 +111,7 @@ export const FeaturesGrid = () => {
             <div className="hidden md:block">
               <div className="relative inline-flex z-0">
                 <motion.img
-                  src="public/assets/images/torus-knot.png"
+                  src="/assets/images/torus-knot.png"
                   alt="Torus Knot 3d Image"
                   className="size-96 max-w-none"
                   ref={torusKnotRef}
@@ -121,7 +121,7 @@ export const FeaturesGrid = () => {
                   }}
                 />
                 <motion.img
-                  src="public/assets/images/hemisphere.png"
+                  src="/assets/images/hemisphere.png"
                   alt="Hemisphere 3d Image"
                   className="absolute size-96 top-3/4 -z-10 scale-x-[-1]"
                   ref={firstHemisphereRef}
@@ -138,14 +138,14 @@ export const FeaturesGrid = () => {
             <div className="relative hidden md:block">
               <div className="absolute right-0 z-0">
                 <motion.img
-                  src="public/assets/images/cone.png"
+                  src="/assets/images/cone.png"
                   alt="Cone 3D shape"
                   className="size-96 max-w-none rotate-12"
                   ref={coneRef}
                   style={{ translateY: coneTrasnslateY, rotate: coneRotate }}
                 />
                 <motion.img
-                  src="public/assets/images/hemisphere.png"
+                  src="/assets/images/hemisphere.png"
                   alt="Hemisphere 3D shape"
                   className="absolute top-3/4 -z-10 left-0"
                   ref={secondHemisphereRef}

@@ -43,7 +43,7 @@ export const Footer = () => {
       <div className="container">
         <div className="flex justify-between items-center">
           <div>
-            <img src="/public/assets/images/logo.svg" alt="Blockforge Logo" />
+            <img src="/assets/images/logo.svg" alt="Blockforge Logo" />
           </div>
           <nav className="hidden md:flex text-zinc-500 font-heading font-black gap-12">
             <a href="#">Home</a>

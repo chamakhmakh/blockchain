@@ -28,7 +28,7 @@ export const CallToAction = () => {
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
             <Circle className="absolute left-0 -top-[400px]" animate>
               <motion.img
-                src="/public/assets/images/cuboid.png"
+                src="/assets/images/cuboid.png"
                 alt="Cuboid Image"
                 className="size-[140px]"
                 style={{ rotate }}
@@ -38,7 +38,7 @@ export const CallToAction = () => {
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
             <Circle className="absolute -left-[600px] -top-[70px]" animate>
               <motion.img
-                src="/public/assets/images/cylinder.png"
+                src="/assets/images/cylinder.png"
                 alt="Cylinder Image"
                 className="size-[140px]"
                 style={{ rotate }}
